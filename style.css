@@ -2,15 +2,15 @@ h1
 {
     font-family: 'Are You Serious', cursive;
     font-family: 'Cinzel Decorative', cursive;
-    text-decoration-color: white;
+    text-decoration-color: rgb(0, 0, 0);
 }
 p 
 {
     font-family: 'Are You Serious', cursive;
     font-family: 'Cinzel Decorative', cursive;
-    text-decoration-color: white;
+    text-decoration-color: rgb(0, 0, 0);
 }
 body
 {
-    background-color: black;
+    background-color: rgb(255, 255, 255);
 }
