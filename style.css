@@ -2,15 +2,17 @@ h1
 {
     font-family: 'Are You Serious', cursive;
     font-family: 'Cinzel Decorative', cursive;
-    text-decoration-color: rgb(0, 0, 0);
+
+    background-color: gold;
 }
 p 
 {
     font-family: 'Are You Serious', cursive;
     font-family: 'Cinzel Decorative', cursive;
     text-decoration-color: rgb(0, 0, 0);
+    
 }
 body
 {
-    background-color: rgb(255, 255, 255);
+    background-image: url(https://wallpapercave.com/wp/wp5607276.jpg);
 }
